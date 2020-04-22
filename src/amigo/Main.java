@@ -33,7 +33,7 @@ public class Main
 
                     break;
                 case 2:
-
+                    identificacion=lector.nextLine();
                     System.out.print("Digite su identificación: ");
                     identificacion=lector.nextLine();
                     System.out.println("Digite su nombre: ");
